@@ -4,3 +4,7 @@ def test_add_item():
 
 def test_remove_item():
     print("Item removed successfully")
+
+
+def add_name():
+    return "vinay"
